@@ -1,21 +1,21 @@
-## CUSTOM README
-
 > [!NOTE]
 > This repository is based on the book "JavaScript for Impatient Programmers", and also with my other repository "Re-Learning JavaScript"
 > https://github.com/Depechejuan/re-learning-JS
 
 
 # Day 1
+First test done.
 
 
 
 
 
-
- ## ORIGINAL README
+ 
+ ORIGINAL README
 # Code for “JavaScript for impatient programmers”
 
-## Installation
+
+# Installation
 
 1. Requirement: Node.js must be installed. https://nodejs.org/
   * The version must be at least 15.5.1 (checked during installation test, see below)
@@ -34,7 +34,7 @@
   npm t installation_test.mjs
   ```
 
-## Running exercises
+# Running exercises
 
 Each exercise/test file:
 
