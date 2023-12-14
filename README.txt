@@ -1,3 +1,18 @@
+## CUSTOM README
+
+> [!NOTE]
+> This repository is based on the book "JavaScript for Impatient Programmers", and also with my other repository "Re-Learning JavaScript"
+> https://github.com/Depechejuan/re-learning-JS
+
+
+# Day 1
+
+
+
+
+
+
+ ## ORIGINAL README
 # Code for “JavaScript for impatient programmers”
 
 ## Installation
