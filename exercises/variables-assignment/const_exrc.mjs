@@ -3,15 +3,18 @@ Instructions:
 - Run this test (it fails).
 - Insert a single(!) const statement so that the test passes.
 */
-suite('const_exrc.mjs');
+suite("const_exrc.mjs");
 
-import * as assert from 'assert/strict';
+import * as assert from "assert/strict";
 
-test('const', () => {
+test("const", () => {
     const x = 3;
     assert.equal(x, 3);
     {
+        const x = 12;
         assert.equal(x, 12);
     }
     assert.equal(x, 3);
 });
+// fixed.
+// Add only 1 const, on the object inside, because of the scope this works
